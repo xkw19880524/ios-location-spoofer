@@ -22,7 +22,7 @@
 不想用我的网址、或者想自己掌控？点下面的按钮，登录 Cloudflare 后一路下一步，
 **30 秒**就能部署一份**属于你自己的**选点页（Cloudflare 免费额度完全够用）：
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cyberhandyman/ios-location-spoofer/tree/main/stateless-picker/worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xkw19880524/ios-location-spoofer/tree/main/stateless-picker/worker)
 
 部署完你会拿到一个自己的网址（形如 `https://xxx.你的账号.workers.dev`）。
 它自带全部模块文件，主页里的「一键导入」按钮会**自动指向你自己的域名**，不用改任何代码。
@@ -52,10 +52,10 @@
 
 | 客户端 | 模块地址 |
 |---|---|
-| Shadowrocket / Surge / Egern | `https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/ios-location-spoofer.sgmodule` |
-| Loon | `https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/ios-location-spoofer.lnplugin` |
-| Stash | `https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/ios-location-spoofer.stoverride` |
-| Quantumult X | `https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/ios-location-spoofer.snippet` |
+| Shadowrocket / Surge / Egern | `https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/ios-location-spoofer.sgmodule` |
+| Loon | `https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/ios-location-spoofer.lnplugin` |
+| Stash | `https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/ios-location-spoofer.stoverride` |
+| Quantumult X | `https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/ios-location-spoofer.snippet` |
 
 **MITM 主机名**（如全部配置成功仍不生效，手动加入这四个域名）：
 
