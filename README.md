@@ -1,6 +1,6 @@
 # iOS Location Spoofer
 
-自建了worker网页，选点页也在里面：https://cyberhandyman-ioslocspo.cyberhandyman.workers.dev
+自建了worker网页，选点页也在里面：https://ioslocspo.284135370.workers.dev   https://cyberhandyman-ioslocspo.cyberhandyman.workers.dev
 
 视频教程：https://youtu.be/EspuRlKWUxc
 
@@ -48,7 +48,7 @@
 
 ## 📦 模块安装地址
 
-推荐直接在[选点页首页](https://cyberhandyman-ioslocspo.cyberhandyman.workers.dev)点「一键导入」。手动添加用下面的地址：
+推荐直接在[选点页首页](https://ioslocspo.284135370.workers.dev/)点「一键导入」。手动添加用下面的地址：
 
 | 客户端 | 模块地址 |
 |---|---|
