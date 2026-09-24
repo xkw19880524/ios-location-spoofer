@@ -1,11 +1,14 @@
 name: iOS Location Spoofer (Stateless)
 desc: "任何售卖本项目/模块的都是骗子，请立即联系退款。iOS Location Spoofer 无状态版 (Stash)"
-homepage: https://github.com/cyberhandyman/ios-location-spoofer
+homepage: https://github.com/xkw19880524/ios-location-spoofer
 
 http:
   mitm:
     - "gs-loc.apple.com"
     - "gs-loc-cn.apple.com"
+    - "gsp-ssl.ls.apple.com"
+    - "bluedot.is.autonavi.com"
+    - "bluedot.is.autonavi.com.gds.alibabadns.com"
   script:
     - match: ^https?:\/\/gs-loc(-cn)?\.apple\.com\/clls\/wloc
       name: ios-location-spoofer
@@ -23,8 +26,8 @@ http:
 
 script-providers:
   ios-location-spoofer:
-    url: https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/location-spoofer.js
+    url: https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/location-spoofer.js
     interval: 86400
   ios-location-settings:
-    url: https://raw.githubusercontent.com/cyberhandyman/ios-location-spoofer/main/location-settings.js
+    url: https://raw.githubusercontent.com/xkw19880524/ios-location-spoofer/main/location-settings.js
     interval: 86400
